@@ -6,6 +6,6 @@
 #'
 #' @examples
 praiseme <- function(){
-  print("You are really really super awesome!")
+  print("You are really super awesome!")
 }
 
